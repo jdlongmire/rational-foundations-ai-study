@@ -96,7 +96,7 @@ GitHub: [@jdlongmire](https://github.com/jdlongmire)
 
 ## Future Directions
 
-- Extension to human discourse validation (r/DebateAnAtheist testing)
+- Extension to human discourse validation 
 - Application to other philosophical arguments
 - Development of standardized AI validation protocols
 - Conference presentations and peer review
