@@ -16,7 +16,7 @@ An important consideration is that all the ideas for the papers are my own, just
 - [The Rational Ground Argument: A Novel Transcendental Argument for God](https://www.oddxian.com/2025/07/the-rational-ground-argument-novel.html) - *Publication-ready philosophical contribution*
 
 - **Epistemic Asymmetry Paper:**
-- [The Epistemic Asymmetry: Why Divine "Brute Facts" Differ Categorically from Naturalistic Termination](https://github.com/jdlongmire/rational-foundations-ai-study/blob/main/The%20Epistemic%20Asymmetry_%20Why%20Divine%20_Brute%20Facts_%20Differ%20Categorically%20from%20Naturalistic%20Termination.pdf)
+- [The Epistemic Asymmetry: Why Divine "Brute Facts" Differ Categorically from Naturalistic Termination](https://github.com/jdlongmire/rational-foundations-ai-study/blob/main/The%20Epistemic%20Asymmetry_%20Why%20Divine%20_Brute%20Facts_%20Differ%20Categorically%20from%20Naturalistic%20Termination.pdf) - *Infinite discovery vs. epistemic dead ends*
 
 **Original AI Validation Study:**
 - [The Logical Necessity of Rational Foundations: A Deductive Argument with Systematic AI Analysis](https://bit.ly/406PMCY) - *Foundational methodology and cross-platform testing*
