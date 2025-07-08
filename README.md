@@ -11,7 +11,7 @@ This repository documents groundbreaking research combining rigorous philosophic
 ### Core Scholarly Works
 
 **Primary Philosophical Argument:**
-- [The Rational Ground Argument: A Novel Transcendental Argument for God](http://bit.ly/4nAtRy0) - *Publication-ready philosophical contribution*
+- [The Rational Ground Argument: A Novel Transcendental Argument for God](https://www.oddxian.com/2025/07/the-rational-ground-argument-novel.html) - *Publication-ready philosophical contribution*
 
 **Original AI Validation Study:**
 - [The Logical Necessity of Rational Foundations: A Deductive Argument with Systematic AI Analysis](https://bit.ly/406PMCY) - *Foundational methodology and cross-platform testing*
@@ -124,15 +124,15 @@ Every claim about AI collaboration, argument development, and philosophical reas
 - **Innovation Recognition**: Novel methodology with potential for widespread academic adoption
 
 ### DOI and Citation
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15830571.svg)](https://doi.org/10.5281/zenodo.15830571)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15837322.svg)](https://doi.org/10.5281/zenodo.15837322)
 
 ```bibtex
 @misc{longmire2025rational,
-  title={Rational Foundations AI Study: Systematic Deductive Argumentation with AI-Assisted Validation},
+  title={The Rational Ground Argument: A Novel Transcendental Argument for God},
   author={Longmire, JD},
   year={2025},
-  url={https://github.com/jdlongmire/rational-foundations-ai-study},
-  doi={10.5281/zenodo.15830571},
+  url={https://www.oddxian.com/2025/07/the-rational-ground-argument-novel.html},
+  doi={10.5281/zenodo.15837322},
   note={Complete scholarly ecosystem with philosophical argument, methodology documentation, and AI conversation transcripts}
 }
 ```
