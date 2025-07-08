@@ -28,7 +28,7 @@ An important consideration is that all the ideas for the papers are my own, just
 **Methodology Documentation:**
 - [AI-Assisted Philosophical Argumentation: A Case Study in Collaborative Argument Development](https://bit.ly/44SsEdW) - *Complete process documentation and replication guide*
 
-### AI Conversation Transcripts for Primary Study
+### AI Conversation Transcripts for Foundational Study
 
 All conversation threads are publicly accessible for complete verification:
 
