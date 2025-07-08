@@ -18,8 +18,12 @@ An important consideration is that all the ideas for the papers are my own, just
 - **Epistemic Asymmetry Paper:**
 - [The Epistemic Asymmetry: Why Divine "Brute Facts" Differ Categorically from Naturalistic Termination](https://github.com/jdlongmire/rational-foundations-ai-study/blob/main/The%20Epistemic%20Asymmetry_%20Why%20Divine%20_Brute%20Facts_%20Differ%20Categorically%20from%20Naturalistic%20Termination.pdf) - *Infinite discovery vs. epistemic dead ends*
 
-**Original AI Validation Study:**
+**Refined AI Validation Study:**
 - [The Logical Necessity of Rational Foundations: A Deductive Argument with Systematic AI Analysis](https://bit.ly/406PMCY) - *Foundational methodology and cross-platform testing*
+
+**Foundational Research Work**
+
+- [The Logical Necessity of Rational Foundations: A Philosophical Argument with Novel AI Validation](https://github.com/jdlongmire/rational-foundations-ai-study/blob/main/Original%20Artifact%20for%20The%20Logical%20Necessity%20of%20Rational%20Foundations_%20A%20Philosophical%20Argument%20with%20Novel%20AI%20Validation.pdf)** (PDF) *A systematic deductive argument for the necessary existence of a personal intelligent mind as the foundation of rational reality, validated through cross-company AI analysis.*
 
 **Methodology Documentation:**
 - [AI-Assisted Philosophical Argumentation: A Case Study in Collaborative Argument Development](https://bit.ly/44SsEdW) - *Complete process documentation and replication guide*
