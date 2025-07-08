@@ -22,7 +22,7 @@ This repository documents groundbreaking research combining rigorous philosophic
 **Methodology Documentation:**
 - [AI-Assisted Philosophical Argumentation: A Case Study in Collaborative Argument Development](https://bit.ly/44SsEdW) - *Complete process documentation and replication guide*
 
-### AI Conversation Transcripts
+### AI Conversation Transcripts for primary study
 
 All conversation threads are publicly accessible for complete verification:
 
