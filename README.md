@@ -6,6 +6,8 @@
 
 This repository documents groundbreaking research combining rigorous philosophical argumentation with systematic AI collaboration. The work establishes both a novel transcendental argument for rational foundations and an innovative methodology for AI-assisted philosophical research that represents a paradigm shift in academic methodology.
 
+An important point to cosider is that all the ideas for the papers are my thoughts, just AI-Assited for clarity and completeness.
+
 ## Repository Contents
 
 ### Core Scholarly Works
